@@ -83,11 +83,11 @@ Location header: http://localhost:8080/local-download?name=example.pdf
 ```
 
 
-### Upload a Pdf to Local with Postman
-<img src="image/db.jpg" alt="db" width="945" />
-
 ### Upload a Pdf to Db with Postman
 <img src="image/db.jpg" alt="db" width="945" />
+
+### Upload a Pdf to Local with Postman
+<img src="image/local.jpg" alt="db" width="947" />
 
 ## Contributing
 
