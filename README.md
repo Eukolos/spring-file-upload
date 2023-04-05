@@ -89,7 +89,6 @@ Location header: http://localhost:8080/local-download?name=example.pdf
 ### Upload a Pdf to Db with Postman
 <img src="image/db.jpg" alt="db" width="945" />
 
-
 ## Contributing
 
-This project was created by [Eukolos](https://github.com\Eukolos). Contributions are welcome! 
+This project was created by [Eukolos](https://github.com/Eukolos). Contributions are welcome! 
