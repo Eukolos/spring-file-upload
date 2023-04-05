@@ -25,12 +25,12 @@ To run this project, you will need to have Java 17.
 
 <b>1 )</b> Download your project from this link shown below
 ```
-    git clone https://github.com/Eukolos/spring-boot-3-example.git
+    git clone https://github.com/Eukolos/spring-file-upload.git
 ```
 
 <b>2 )</b> Go to the project's home directory shown below
 ```
-    cd spring-boot-3-example
+    cd spring-file-upload
 ```
 
 <b>3 )</b> Create native image though this command shown below
@@ -92,4 +92,4 @@ Location header: http://localhost:8080/local-download?name=example.pdf
 
 ## Contributing
 
-This project was created by Eukolos. Contributions are welcome! 
+This project was created by [Eukolos](https://github.com\Eukolos). Contributions are welcome! 
